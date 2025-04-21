@@ -1,0 +1,2 @@
+rich
+llama-cpp-python
